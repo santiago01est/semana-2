@@ -2,14 +2,14 @@
 * {
   box-sizing: inherit;
 }
-html,body{
+
+/* Moobile First responsive design*/
+
+body {
+  margin: 0 auto;
   color: #566b78;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   background-color: #0d1117;
-}
-/* Moobile First responsive design*/
-body {
-  margin: 0 auto;
   max-width: 50em;
   line-height: 1.5;
   padding: 4em 1em;
