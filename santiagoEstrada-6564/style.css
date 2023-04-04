@@ -7,7 +7,7 @@ html,body{
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   background-color: #0d1117;
 }
-/* Moobile First */
+/* Moobile First responsive design*/
 body {
   margin: 0 auto;
   max-width: 50em;
@@ -447,9 +447,8 @@ img {
   grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   
-}
-
   }
+}
 
 
 
